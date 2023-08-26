@@ -5,7 +5,7 @@
 
 # INTRODUCTION
 
-Hello, Resya here! 23 years old girl in +8 GMT (East Borneo) timezone. I am a Tax Collector and software engineer. The 9th assignment are assigned to a simple API server about mbanking app. 
+Hello, Resya here! 23 years old girl in +8 GMT (East Borneo) timezone. I am a Tax Collector and software engineer. 
 
 # RESTful API for Transfer Request Management
 
