@@ -1,4 +1,9 @@
-![Screen Shot 2023-08-26 at 12 13 56](https://github.com/RevoU-FSSE-2/week-10-resyanac/assets/135514670/792ce954-808c-4229-8032-d409e639d419)# INTRODUCTION
+
+![RESYANA CAHYANITA](https://github.com/RevoU-FSSE-2/week-10-resyanac/assets/135514670/828e9677-d001-4596-9499-778edc1e997a)
+
+
+
+# INTRODUCTION
 
 Hello, Resya here! 23 years old girl in +8 GMT (East Borneo) timezone. I am a Tax Collector and software engineer. The 9th assignment are assigned to a simple API server about mbanking app. 
 
@@ -36,6 +41,8 @@ This 10th week project is a RESTful API built with Node.js, Express.js, MongoDB 
 - `POST /auth/transfer`: Create a new transfer request.
 - `PUT /auth/transfer/:id`: Update an existing transfer request by ID.
 - `DELETE /auth/transfer/:id`: Delete a transfer request by ID.
+
+![Screen Shot 2023-08-26 at 12 13 56](https://github.com/RevoU-FSSE-2/week-10-resyanac/assets/135514670/792ce954-808c-4229-8032-d409e639d419)
 
 ![Screen Shot 2023-08-26 at 12 13 56](https://github.com/RevoU-FSSE-2/week-10-resyanac/assets/135514670/e2584cb7-975e-49d3-8f71-b0f27b051030)
 
