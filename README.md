@@ -42,7 +42,6 @@ This 10th week project is a RESTful API built with Node.js, Express.js, MongoDB 
 - `PUT /auth/transfer/:id`: Update an existing transfer request by ID.
 - `DELETE /auth/transfer/:id`: Delete a transfer request by ID.
 
-![Screen Shot 2023-08-26 at 12 13 56](https://github.com/RevoU-FSSE-2/week-10-resyanac/assets/135514670/792ce954-808c-4229-8032-d409e639d419)
 
 ![Screen Shot 2023-08-26 at 12 13 56](https://github.com/RevoU-FSSE-2/week-10-resyanac/assets/135514670/e2584cb7-975e-49d3-8f71-b0f27b051030)
 
